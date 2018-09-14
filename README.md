@@ -1,3 +1,3 @@
-# pokemongo
+# PokeFun
 
 A Fun Pokemon App
